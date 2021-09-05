@@ -1,0 +1,14 @@
+{
+  "name": "js-challenge",
+  "version": "1.0.0",
+  "description": "challenge for javascript basic class",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "atlas team",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
